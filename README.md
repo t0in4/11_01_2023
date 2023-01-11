@@ -14,10 +14,13 @@
 Примеры:
 
 1
-
-### ввод: This text is simple to read! It has on average less than 10 words per sentence.
-### вывод: EASY
+ввод: 
+### This text is simple to read! It has on average less than 10 words per sentence.
+вывод:
+###  EASY
 
 2
-### ввод: This text is hard to read. It contains a lot of sentences as well as a lot of words in each sentence
-### вывод: HARD
+ввод:
+###  This text is hard to read. It contains a lot of sentences as well as a lot of words in each sentence
+вывод:
+### HARD
